@@ -1,0 +1,11 @@
+#define Ext_LED 0
+void setup() {
+  pinMode(Ext_LED, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(Ext_LED, HIGH);   
+  delay(1000);                   
+  digitalWrite(Ext_LED, LOW);    
+  delay(1000);                      
+}

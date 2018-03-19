@@ -1,0 +1,64 @@
+﻿List of Components
+
+Sparkfun ESP8266 thing 
+
+Amazon.com Link:
+https://www.amazon.com/SparkFun-WRL-13231-ESP8266-Thing/dp/B00YUU4AMK/ref=sr_1_1?ie=UTF8&qid=1517597159&sr=8-1&keywords=esp8266+thing+board&dpID=51XT7FFfFPL&preST=_SY300_QL70_&dpSrc=srch
+
+Price: $15.75 
+
+3.3v FTDI Micro USB to serial converter.
+
+Amazon.com Link: 
+https://www.amazon.com/Micro-Basic-Breakout-Module-Arduino/dp/B00N4MCS1A/ref=sr_1_3?s=industrial&ie=UTF8&qid=1517600282&sr=1-3&keywords=ftdi+3.3v
+
+Price: $9.95 
+
+3.7v 900mAh LiPo battery
+
+Amazon.com Link: 
+https://www.amazon.com/uxcell-Rechargeable-Lithium-Polymer-Battery/dp/B0767KYGK7/ref=sr_1_16?ie=UTF8&qid=1517597979&sr=8-16&keywords=3.7v+900mah+lipo+battery
+
+Price: $9.99 
+
+USB to Micro USB
+
+Amazon.com Link:
+https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B07232M876/ref=sr_1_1?s=electronics&ie=UTF8&qid=1517598168&sr=1-1&keywords=usb+to+micro+usb&dpID=41UBhSNnyPL&preST=_SX300_QL70_&dpSrc=srch
+
+Price: $5.29 
+
+Jumper wire
+
+Amazon.com Link:
+https://www.amazon.com/Haitronic-Multicolored-Breadboard-Arduino-raspberry/dp/B01LZF1ZSZ/ref=sr_1_3?s=electronics&ie=UTF8&qid=1517598317&sr=1-3&keywords=jumper+wires&dpID=51lD-8t3V5L&preST=_SY300_QL70_&dpSrc=srch
+
+Price: $6.98 ( 40 Male to male, 40 male to female, 40 female to female)
+
+5mm 1.8v Red LED 
+
+Amazon.com Link:
+https://www.amazon.com/100pcs-Ultra-Bright-Emitting-Diffused/dp/B01GE4WHK6/ref=sr_1_5?s=hi&ie=UTF8&qid=1517598464&sr=1-5&keywords=red+led+5mm
+
+Price: $6.20 (100 pieces)
+
+150 ohm resistor
+
+Amazon.com Link:
+https://www.amazon.com/Projects-25EP514150R-150-Resistors-Pack/dp/B00B5KZN92/ref=sr_1_1_sspa?ie=UTF8&qid=1517598791&sr=8-1-spons&keywords=150+ohm+resistors&psc=1
+
+Price: $5.78 (25 pieces) 
+
+4.7k ohm resistor
+
+Amazon.com Link:
+https://www.amazon.com/Projects-25EP5144K70-4-7k-Resistors-Pack/dp/B0185FC5OK/ref=sr_1_1_sspa?s=industrial&ie=UTF8&qid=1517598908&sr=1-1-spons&keywords=4.7k+ohm+resistors&psc=1
+
+Price: $5.78 (25 pieces)
+
+DS18b20 Temperature Sensor
+
+Amazon.com Link:
+https://www.amazon.com/DS18B20-Digital-Temperature-Thermal-Sensor/dp/B00FH7UHA4/ref=sr_1_31?s=industrial&ie=UTF8&qid=1517599103&sr=1-31&keywords=ds18b20+digital+temperature+sensor+probe
+
+Price: $3.28

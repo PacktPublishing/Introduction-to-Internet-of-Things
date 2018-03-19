@@ -1,0 +1,14 @@
+A current limiting resistor of 150 ohms is added in series while connecting a LED to the GPIO of the ESP8266 thing, for the primary purpose of drawing current from the GPIO of the ESP8266 thing well within its safe maximum  capability that is 12 mA. Drawing more than 12mA from the GPIO doesnot show any immidiate effect on the functioning of the board, but will surely damage the board in the long run. 
+
+Calculations:
+
+Vgpio = 3.3v, this is the voltage level that will maintained on the GPIO of ESP8266 thing when it is HIGH.
+
+Vled = 1.8v, this is the voltage drop accross a standard Red LED.
+
+Imax = 12mA, this is safe maximum current that can be drawn from the GPIO of ESP8266 thing.
+
+R, Current limiting resistance = (Vgpio - Vled)/Imax
+			       = (3.3v - 1.8v)/12mA
+			       = (1.5 * 1000)/12 ohms
+			       = 125 ohms ~ 150 ohms 

@@ -1,0 +1,23 @@
+#include <CayenneMQTTESP8266.h>
+
+char ssid[] = "ssid";
+char wifiPassword[] = "wifiPassword";
+
+char username[] = "MQTT_USERNAME";
+char password[] = "MQTT_PASSWORD";
+char clientID[] = "CLIENT_ID";
+
+void setup() {
+    Cayenne.begin(username, password, clientID, ssid, wifiPassword);
+    pinMode(5,OUTPUT);
+}
+
+void loop() {
+  Cayenne.loop();
+}
+
+CAYENNE_IN(1)
+{
+  digitalWrite(5,getValue.asInt());
+  delay(1000);
+}

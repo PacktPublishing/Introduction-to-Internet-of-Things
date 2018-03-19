@@ -1,0 +1,28 @@
+#include <OneWire.h> 
+#include <DallasTemperature.h>
+#include <CayenneMQTTESP8266.h>
+#define ONE_WIRE_BUS 4
+OneWire oneWire(ONE_WIRE_BUS);  
+DallasTemperature sensors(&oneWire); 
+
+char ssid[] = "ssid";
+char wifiPassword[] = "wifiPassword";
+
+char username[] = "MQTT_USERNAME";
+char password[] = "MQTT_PASSWORD";
+char clientID[] = "CLIENT_ID";
+
+void setup(void) 
+{ 
+  Cayenne.begin(username, password, clientID, ssid, wifiPassword);
+  sensors.begin(); 
+} 
+
+void loop(void) 
+{
+  Cayenne.loop();
+  sensors.requestTemperatures();  
+  float temp = sensors.getTempCByIndex(0);
+  Cayenne.virtualWrite(0,temp);
+  delay(1000);
+}
