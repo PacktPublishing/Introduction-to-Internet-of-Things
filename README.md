@@ -8,13 +8,14 @@ Finally, you will be able to build IoT solutions on your own to solve your busin
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Set up a working environment essential for application development 
-<LI>Begin using various elements of the C++ language 
-<LI>Explore the anatomy of a simple, yet powerful application built with C++ 
-<LI>Build your own application with C++ 
-<LI>Master debugging techniques to ensure that your application is always running smoothly 
-<LI>Familiarize yourself with console mode and GUI mode for application development 
-<LI>Use various toolkits/libraries for large-scale application development </LI></UL></DIV>
+<LI>Explore used cases and case studies how IoT is impacting the industries
+<LI>Work with Sensors
+<LI>Explore the different components of IoT
+<LI>Integrate Sensor data with Thing and Cayenne
+<LI>Rapidly build a prototype IoT solutions using Cayenne platform
+<LI>Work with different IoT platforms
+<LI>Implement IoT solutions using the ESP8266 “Thing”
+<LI>Build IoT solutions with the ESP8266 Thing and Cayenne </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
